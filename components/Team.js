@@ -4,7 +4,7 @@ import Image from "next/image";
 const teamMembers = [
   {
     name: "Imran Parthib",
-    role: "KAMLA",
+    role: "Project Manager",
     imageUrl: "/images/imranParthib.png",
   },
   {
@@ -15,7 +15,7 @@ const teamMembers = [
   {
     name: "Rakibul Islam Anas",
     role: "Lead Developer",
-    imageUrl: "/images/rakibulAnas.jfif",
+    imageUrl: "/images/rakibulAnas.webp",
   },
 ];
 
